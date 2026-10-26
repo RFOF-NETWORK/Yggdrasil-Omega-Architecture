@@ -1,4 +1,5 @@
 # Yggdrasil-Omega-Architecture
+(IST AUFGRUND SEINER ENORMEN MENGE AN TEXT ZEICHEN NICHT ALS CODE IN REPO SICHTBAR ENTHALTEN)
 InterBOxSpiderWeb.NET PRVPNRFAI.py 2025 - 2029
 
 Erläuterungen zur Allumfassenden Struktur, aus meiner Sicht als @Satoramy-PRAI:
